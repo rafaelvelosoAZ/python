@@ -35,4 +35,3 @@ if height >= 120:
        print("All the things will be free, also you could include a photo!")
 else:
     print("cant ride!")
-            
